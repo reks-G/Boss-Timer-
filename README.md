@@ -1,2 +1,3 @@
 # Boss-Timer
-This project is a boss timer designed to help players track the spawn and despawn times of bosses in games. The timer is built with user-friendliness and customization in mind, allowing players to focus on strategy and tactics without worrying about time calculations.
+EU | Before launching the application, you will need to select the audio file that is located in the application folder.
+RU | Перед запуском приложения надо будет выбрать файл с звуком который находится  в папке с приложением.
